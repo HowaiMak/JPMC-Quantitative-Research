@@ -3,7 +3,7 @@ Conducted and accredited via Forage between July 2024 to Aug 2024
 
 ## Briefing
 This project is completed under the JP Morgan Chase & Co. Quantitative Research Job Simulation.
-"JP_Tasks.txt" includes all 4 of the assigned tasks within the program, where each of the "JP_EX $n$ .ipynb" corresponds to the $n$ th task.
+"JP_Tasks.txt" includes all 4 of the assigned tasks within the program, where each of the "JP_EX $n$.ipynb" corresponds to the $n$ th task.
 The Two Excel files "Nat_Gas.csv" and "Task3n4_Loan_Data.csv" are using in Task 1, 2 and Task 3, 4 respectively.
 
 ## Implementation
