@@ -10,6 +10,7 @@ The Two Excel files "Nat_Gas.csv" and "Task3n4_Loan_Data.csv" are using in Task 
 The simulation is run on Jupyter Notebook (ipython) and can be run easily on Windows or Mac OS using Visual Studio or from online terminals
 For more information please visit the official site for futher information:
 - https://jupyter.org/
+- https://code.visualstudio.com/
 
 ## Start-up
 For those who wish to run the code in python, please import the library "os" in order to read and extract your current working directory (or the Excel files directory) to read the .csv files.
