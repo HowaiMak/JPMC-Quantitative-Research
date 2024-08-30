@@ -1,5 +1,6 @@
 # JPMC Quantitative Research Certificate
 Conducted and accredited via Forage between July 2024 to Aug 2024
+
 Access program on: https://www.theforage.com/simulations
 
 ## Outline
