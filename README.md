@@ -1,6 +1,5 @@
 # JPMC Quantitative Research Job Simulation Programme
 Conducted and accredited via Forage between July 2024 to Aug 2024
-Access program on: https://www.theforage.com/simulations
 
 ## Outline
 This project is completed under the JP Morgan Chase & Co. Quantitative Research Job Simulation on Forage. There are a total of 4 assigned tasks, including topics in analysing & forecasting, pricing models, credit risk analysis, and FICO scores. Each of the notebook corresponds to the $n$ th task. The Two Excel files "Nat_Gas.csv" and "Task3n4_Loan_Data.csv" are using in Task 1 and Task 3, 4 respectively. While the "Nat_Gas_forecast.csv" is used in Task 2.
