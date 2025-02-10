@@ -14,7 +14,7 @@ This repository contains my work for the **JP Morgan Chase & Co. Quantitative Re
 ---
 
 ## Repository Structure
-"""
+```bash
 /
 ├── Task1_Market_Forecasting/
 │ ├── Nat_Gas.csv
@@ -29,7 +29,7 @@ This repository contains my work for the **JP Morgan Chase & Co. Quantitative Re
 │ ├── Task3n4_Loan_Data.csv
 │ └── Task4_FICO_Score_Analysis.ipynb
 └── README.md
-"""
+```
 ---
 
 ## Tasks
