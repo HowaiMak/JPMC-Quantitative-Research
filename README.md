@@ -13,24 +13,6 @@ This repository contains my work for the **JP Morgan Chase & Co. Quantitative Re
 
 ---
 
-## Repository Structure
-```bash
-├── Task1_Market_Forecasting/
-│ ├── Nat_Gas.csv
-│ └── Task1_Market_Forecasting.ipynb
-├── Task2_Pricing_Models/
-│ ├── Nat_Gas_forecast.csv
-│ └── Task2_Pricing_Models.ipynb
-├── Task3_Credit_Risk_Analysis/
-│ ├── Task3n4_Loan_Data.csv
-│ └── Task3_Credit_Risk_Analysis.ipynb
-├── Task4_FICO_Score_Analysis/
-│ ├── Task3n4_Loan_Data.csv
-│ └── Task4_FICO_Score_Analysis.ipynb
-└── README.md
-```
----
-
 ## Tasks
 
 ### Task 1: Market Forecasting - Forecasting Natural Gas Market Price
